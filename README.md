@@ -1,1 +1,1 @@
-# Example use of [worldpop](https://www.worldpop.org)
+# Example use of Flask GET and Post
